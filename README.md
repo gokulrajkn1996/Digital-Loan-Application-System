@@ -1,37 +1,27 @@
-# Digital Loan Application & Approval System
+# Digital Loan Application & Approval System — BA Documentation
 
-A working independent banking portfolio project demonstrating digital loan origination, KYC, affordability assessment, credit-risk routing, underwriting workflow, status tracking and management reporting.
+Independent banking portfolio project created by **Gokul Raj**.
 
-## Live demo
+## Project objective
 
-After GitHub Pages is enabled, the application will be available at:
+Design a digital workflow that allows customers to submit personal-loan applications and enables loan officers to review KYC, affordability and simulated credit-risk information through a consistent approval process.
 
-`https://gokulrajkn1996.github.io/digital-loan-application-system/`
+## Documentation index
 
-## Features
+1. [Project Charter](docs/01-project-charter.md)
+2. [Business Requirements](docs/02-business-requirements.md)
+3. [User Stories](docs/03-user-stories.md)
+4. [Process Flows](docs/04-process-flows.md)
+5. [Use Cases and Business Rules](docs/05-use-cases-and-business-rules.md)
+6. [Requirements Traceability Matrix](docs/06-requirements-traceability-matrix.md)
+7. [UAT Plan and Scenarios](docs/07-uat-plan-and-scenarios.md)
+8. [Defect Log](docs/08-defect-log.md)
+9. [Data Dictionary](docs/09-data-dictionary.md)
 
-- Customer loan application form with validation
-- Live debt-to-income calculation
-- Simulated credit-risk classification and routing
-- Loan-officer review queue
-- Application status timeline
-- Portfolio KPI and risk dashboard
-- Responsive desktop and mobile design
+## Demonstrated BA capabilities
 
-## How to publish with GitHub Pages
+Requirements elicitation, scope definition, stakeholder analysis, user stories, acceptance criteria, process modelling, business rules, traceability, UAT planning, defect management, data definition and KPI reporting.
 
-1. Upload `index.html`, `styles.css`, `app.js`, and this `README.md` to the repository root.
-2. Open **Settings → Pages**.
-3. Under **Build and deployment**, select **Deploy from a branch**.
-4. Select the `main` branch and `/ (root)` folder.
-5. Click **Save**.
+## Disclosure
 
-## Portfolio disclosure
-
-This application was independently created by Gokul Raj to demonstrate Business Analyst and banking-domain capabilities. It uses fictional applicants and simulated decision rules. It is not based on confidential client information and is not represented as a client implementation or real credit-decision engine.
-
-## Author
-
-**Gokul Raj**  
-Business Analyst · Mississauga, Ontario  
-[Portfolio](https://gokulrajkn1996.github.io) · [LinkedIn](https://www.linkedin.com/in/gokulrajkn)
+This is a self-created portfolio project. All applicants, organizations, values and scenarios are fictional. Credit and routing rules are simplified simulations and must not be used for real lending decisions. No client or confidential information is included.
